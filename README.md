@@ -1,14 +1,2 @@
-# testrepo
-Title: MSDS6306
-
-
-Executive Summary(project purpose)
-
-Organization of the Folders
-
-Instructions for Reproducing the Output
-
-System Information for R Session
--SessionInfo()
-
-
+# stat6306introdatascience
+Files and projects for Stat 6306 Introduction to Data Science
